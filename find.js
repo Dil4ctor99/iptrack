@@ -1,5 +1,5 @@
-/* Created By Ibnu Syawal */
-/* Say Alhamdulillah :) */
+/* Created By Muhammad Amar Shidiq */
+/* Say RPL bukan TKJ ok */
 
 // Modul
 var req = require('request');              // npm install --save request
